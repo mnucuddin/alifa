@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite-ABCD">
+
+
+  <test name="Test-AB">
+    <classes>
+      <class name="practiceSTCM.practiceSTCM.A"/>
+      <class name="practiceSTCM.practiceSTCM.B"/>
+    </classes>
+  </test>
+  
+  <test name="Test-CD">
+    <classes>
+      <class name="practiceSTCM.practiceSTCM.C"/>
+      <class name="practiceSTCM.practiceSTCM.D"/>
+    </classes>
+  </test>
+  
+  
+</suite> <!-- Suite -->

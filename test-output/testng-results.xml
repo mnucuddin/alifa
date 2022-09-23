@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-14T01:23:49Z" name="Suite-ABCD" finished-at="2022-09-14T01:23:49Z" duration-ms="83">
+    <groups>
+    </groups>
+    <test started-at="2022-09-14T01:23:49Z" name="Test-AB" finished-at="2022-09-14T01:23:49Z" duration-ms="28">
+      <class name="practiceSTCM.practiceSTCM.A">
+        <test-method is-config="true" signature="bc()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="bc" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="test1()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="test1" finished-at="2022-09-13T21:23:49Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="test2" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="ac" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:practiceSTCM.practiceSTCM.A@10289886]" started-at="2022-09-13T21:23:49Z" name="at" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- practiceSTCM.practiceSTCM.A -->
+      <class name="practiceSTCM.practiceSTCM.B">
+        <test-method is-config="true" signature="bt()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="bt" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="bc" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method signature="test3()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="test3" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="test4()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="test4" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="ac" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+      </class> <!-- practiceSTCM.practiceSTCM.B -->
+    </test> <!-- Test-AB -->
+    <test started-at="2022-09-14T01:23:49Z" name="Test-CD" finished-at="2022-09-14T01:23:49Z" duration-ms="8">
+      <class name="practiceSTCM.practiceSTCM.D">
+        <test-method is-config="true" signature="bs()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="bs" finished-at="2022-09-13T21:23:49Z" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="bt" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method signature="test7()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="test7" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="bc" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="test8()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="test8" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:practiceSTCM.practiceSTCM.D@54e041a4]" started-at="2022-09-13T21:23:49Z" name="ac" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- practiceSTCM.practiceSTCM.D -->
+      <class name="practiceSTCM.practiceSTCM.C">
+        <test-method is-config="true" signature="bc()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="bc" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method signature="test5()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="test5" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="test6()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="test6" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="bm" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="am()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="am" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="ac" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:practiceSTCM.practiceSTCM.C@2c78324b]" started-at="2022-09-13T21:23:49Z" name="at" finished-at="2022-09-13T21:23:49Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+      </class> <!-- practiceSTCM.practiceSTCM.C -->
+      <class name="practiceSTCM.practiceSTCM.B">
+        <test-method is-config="true" signature="as()[pri:0, instance:practiceSTCM.practiceSTCM.B@24959ca4]" started-at="2022-09-13T21:23:49Z" name="as" finished-at="2022-09-13T21:23:49Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- practiceSTCM.practiceSTCM.B -->
+    </test> <!-- Test-CD -->
+  </suite> <!-- Suite-ABCD -->
+</testng-results>
